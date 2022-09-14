@@ -53,10 +53,7 @@ public class stringsAndDatas {
         //System.out.println("Olá " + nome + ". Hoje é " + diaDaSemana + ", " + saudacao.toUpperCase());
         System.out.printf("olá %s. Hoje é %s, %s%n", nome, diaDaSemana, saudacao.toUpperCase());
 
-
         //System.out.println(hoje.getDayOfYear());
         //System.out.println(hoje.getChronology());
-
-
     }
 }
