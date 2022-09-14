@@ -46,7 +46,5 @@ public class lacosNumericos {
             System.out.println(" ");
             System.out.println("__________________ ");
         });
-
-
     }
 }
